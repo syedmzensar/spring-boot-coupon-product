@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<aop-reference-model>
+<aop-project name="discovery-server"/>
+<aop-project name="config-server"/>
+<aop-project name="spring-boot-product"/>
+<aop-project name="jdbc"/>
+<aop-project name="spring-boot-coupons"/>
+<aop-project name="api-gateway"/>
+</aop-reference-model>

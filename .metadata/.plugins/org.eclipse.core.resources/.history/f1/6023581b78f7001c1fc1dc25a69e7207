@@ -1,0 +1,21 @@
+package com.coupon;
+
+import org.springframework.beans.factory.annotation.Value;
+import org.springframework.stereotype.Component;
+
+@Component
+public class MyConfig {
+	
+	@Value("${test.myLanguage}")
+	private String language;
+
+	public String getLanguage() {
+		return language;
+	}
+
+	public void setLanguage(String language) {
+		this.language = language;
+	}
+	
+	
+}
