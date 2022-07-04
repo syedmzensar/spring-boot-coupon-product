@@ -1,0 +1,3 @@
+[submodule "spring-boot-product"]
+	path = spring-boot-product
+	url = https://github.com/syedmzensar/spring-boot-product.git
