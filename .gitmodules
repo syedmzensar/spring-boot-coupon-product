@@ -1,3 +1,6 @@
 [submodule "spring-boot-product"]
 	path = spring-boot-product
 	url = https://github.com/syedmzensar/spring-boot-product.git
+[submodule "spring-boot-coupons"]
+	path = spring-boot-coupons
+	url = https://github.com/syedmzensar/spring-boot-coupons.git
